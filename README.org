@@ -1,0 +1,58 @@
+* Material zur Foundation-Schulung 2024-01
+
+Arc42 Quality Model:
+https://quality.arc42.org/
+    
+Test-Pyramide:
+https://www.openknowledge.de/blog/die-testpyramide
+
+... bei neuland:
+https://www.neuland-bfi.de/blog/alles-steht-kopf-die-umgedrehte-testpyramide
+
+
+Intel-FDIV-Bug:
+https://de.wikipedia.org/wiki/Pentium-FDIV-Bug
+    
+ACL2:
+https://www.cs.utexas.edu/users/moore/acl2/
+        
+CompCert / verifizierter C-Compiler
+https://compcert.org/
+
+SQLite vs. SMB:
+https://stackoverflow.com/questions/788517/sqlite-over-a-network-share
+
+ACIDRain:
+http://www.bailis.org/papers/acidrain-sigmod2017.pdf
+
+Jepsen:
+https://jepsen.io/
+
+Funktionale Anforderungen
+
+EventStorming:
+https://www.eventstorming.com/
+
+Domain Storytelling:
+https://domainstorytelling.org/
+
+Conway's Law:
+https://martinfowler.com/bliki/ConwaysLaw.html
+
+PlantUML:
+https://plantuml.com/
+
+C4 Diagrams:
+https://c4model.com/
+
+arc42:
+https://www.arc42.de/
+
+F#:
+https://fsharp.org/
+
+Financial Contracts
+https://www.microsoft.com/en-us/research/publication/composing-contracts-an-adventure-in-financial-engineering/
+
+Repo dazu:
+https://github.com/active-group/foundation-neuland
